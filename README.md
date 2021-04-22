@@ -6,7 +6,7 @@ My name is <strong>Ryan Corliss</strong> and I've been a SharePoint Architect an
 - 👀 Supporting Applications: Handshake, Nintex, ShareGate, HarePoint.
 - 🌱 As a total new thing and jumping out of my comfort zone, I’m currently learning C# development specifically for Unity VR Gaming and Prototyping.
 - 💞️ I’m open to collaborating or sharing ideas on any SP JS solution
-- 📫 How to reach me: <strong>Please don't contact me about the services you offer - no ads</strong>.  If you would like to reach out with a question or you're interested in a collaboration effort, you can contact me
+- 📫 How to reach me: <strong>Please don't contact me about the services you offer - no ads</strong>.  If you would like to reach out with a question or you're interested in a collaboration effort, you can contact me on Twitter at @alwaysrcorliss
 <!---
 alwaysrcorliss/alwaysrcorliss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
